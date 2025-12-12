@@ -14,7 +14,7 @@
 - **Workers** ：محتویات فایل _workers.js رو توی ورکر پیاده سازی کنید
 - **Pages** ：پروژه رو برای خودتون فورک کنید و با اتصال اکانت به کلاودفلر به سادگی پیاده سازی کنید
 
-## ⚙️ نحوه ی استفاده [PeerTube](https://tubedu.org)  [YouTube](https://www.youtube.com/)
+## ⚙️ نحوه ی استفاده [PeerTube](https://tubedu.org/w/4h5Y3MDAAAxN6nkJKUhLrp)  [YouTube](https://www.youtube.com/watch?v=yBJ0cw_1z0g)
 فرض کنید دامنه ی اپ شما در ورکر این باشه：`myapp.account.workers.dev`；
 
 ### 1.دامنه ی ورکر خودتون رو به ابتدای اسم ایمیج اضافه کنید
